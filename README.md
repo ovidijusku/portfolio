@@ -8,4 +8,4 @@ You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-ku
 
 ### Projects
 
-#### Covid-19 Effect on Western Economy
+#### Covid-19 Effect on European Economy
