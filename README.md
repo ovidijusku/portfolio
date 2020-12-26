@@ -7,3 +7,5 @@ You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-ku
 ---
 
 ### Projects
+
+#### Covid-19 Effect on Global Economy
