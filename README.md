@@ -2,7 +2,7 @@
 
 I will put my recent projects inside this repository. Projects will be represented in Jupyter Notebooks.
 
-You can always message me via [LinkedIn](www.linkedin.com/in/ovidijus-kuzminas).
+You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-kuzminas).
 
 ---
 
