@@ -8,7 +8,7 @@ You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-ku
 ### Projects
 ---
 
-#### Covid-19 Spread in Lithuania
+#### [Covid-19 Spread in Lithuania](https://github.com/ovidijusku/portfolio/blob/main/COVID%20Lithuania/Project%20COVID.ipynb)
 
 PICTURE
 
