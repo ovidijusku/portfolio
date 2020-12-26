@@ -1,5 +1,7 @@
 ## My "wannabe programmer" portfolio
 
+*"Everything on the Internet is true"* /Albert Einstein/
+
 Hi there! I'm new to programming and I am keen to dig deeper into Python (such libraries as Pandas, Numpy). I will put my recent projects inside this repository. Projects will be represented in Jupyter Notebooks.
 
 You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-kuzminas).
