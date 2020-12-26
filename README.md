@@ -10,7 +10,7 @@ You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-ku
 
 #### [Covid-19 Spread in Lithuania](https://github.com/ovidijusku/portfolio/blob/main/COVID%20Lithuania/Project%20COVID.ipynb)
 
-PICTURE
+![](https://raw.githubusercontent.com/ovidijusku/portfolio/main/COVID%20Lithuania/COVID.png)
 
 ##### Results
 1. First quarantine was on time and it fullfilled the most important goal to prevent disease from spreading.
