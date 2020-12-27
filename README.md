@@ -24,7 +24,7 @@ Hypothesis: The second quarantine was announced too late.
 ##### Results
 1. First quarantine was on time and it fullfilled the most important goal to prevent disease from spreading.
 2. The second quarantine was two months after the cases grew to the level of the first quarantine.
-3. However, other European countries announced quarantine even having more cases and deaths (per capita) and they did not acquired such a huge numbers as Lithuania.
+3. However, other European countries announced quarantine even having more cases and deaths (per capita) and they did not acquired such huge numbers as Lithuania.
 4. There might be different reasons for the actual quarantine exponential growth: too liberal restrictions, collective unconsciousness. Most likely, they will lead to social behaviour.
 5. We can reject the hypothesis that the second quarantine was announced to late.
 ---
