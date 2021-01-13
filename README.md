@@ -14,7 +14,7 @@ You can always message me via [LinkedIn](https://www.linkedin.com/in/ovidijus-ku
 ##### BACKGROUND
 After George Floyd, there were lots of protests in U.S. against violent police arrests. This project will answer the question if Black Lives Matter movement had statistically correct reason to blame U.S. police for using fatal force against black community. Moreover, from the data, I will provide some insights how to reduce the total numbers of killed suspects.
 
-![]https://raw.githubusercontent.com/ovidijusku/portfolio/main/Police%20shooting%20in%20US/US%20shooting%20by%20state.bmp
+![](https://raw.githubusercontent.com/ovidijusku/portfolio/main/Police%20shooting%20in%20US/US%20shooting%20by%20state.bmp)
 
 ##### Results
 1. Increasing number of body cameras per patrol
