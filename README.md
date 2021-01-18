@@ -1,4 +1,4 @@
-## My "wannabe programmer" portfolio
+## My "wannabe Data Scientist" portfolio
 
 *"Everything on the Internet is true"* /Albert Einstein/
 
